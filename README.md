@@ -1,3 +1,5 @@
+# Curso avanzado de estadística bayesiana con Python
+
 Bienvenido al Curso avanzado de estadística bayesiana con Python, donde aprenderás todo lo que necesitas para analizar datos, contrastar hipótesis, hacer comparaciones de grupos y mucho más, con los métodos de Estadística Bayesiana, y para ponerlo en práctica veremos ejemplos en Python, uno de los lenguajes de programación más utilizados para el análisis de datos, y una habilidad muy solicitada por las empresas en las ofertas de trabajo de LinkedIn. 
 
 La Estadística Bayesiana es un área específica dentro del campo de la Estadística, y hoy en día es la pieza central de muchas aplicaciones en Ciencia de Datos (Data Science) y Aprendizaje Automático (Machine Learning). Sus métodos se caracterizan porque la "evidencia" sobre lo "verdadero" se expresa en términos del grado de creencia o, más específicamente, en términos de probabilidades bayesianas. Todo se deriva de la interpretación del concepto de probabilidad.
