@@ -11,3 +11,5 @@ Vamos a cubrir todos los aspectos, y lo más importante tendrás mucho material 
 ¿Te apuntas?
 
 ¡Nos vemos en clase!
+
+PD: En aprendeconeli.com encontrarás todos mis cursos con descuentos.
